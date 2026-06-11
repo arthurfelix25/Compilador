@@ -1,0 +1,2 @@
+string s = "Versão " + 2; 
+// O seu compilador deve lançar o Erro Semântico de tipos incompatíveis.

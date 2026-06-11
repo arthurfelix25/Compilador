@@ -1,0 +1,2 @@
+fantasma = 10; // Deve lançar "Erro: Variavel 'fantasma' não declarada"
+int fantasma = 10;

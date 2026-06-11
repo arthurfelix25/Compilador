@@ -1,0 +1,9 @@
+int i = 0;
+while (i < 2) {
+    int j = 0;
+    while (j < 2) {
+        print(j); // Deve imprimir 0, 1, 0, 1
+        j = j + 1;
+    }
+    i = i + 1;
+}
